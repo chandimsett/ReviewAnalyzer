@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ReviewAnalyserApplicationTests {
+public class ReviewAnalyserApplicationTests {
 
     private ReviewAnalyserApplication analyser = new ReviewAnalyserApplication();
     @Test	 
